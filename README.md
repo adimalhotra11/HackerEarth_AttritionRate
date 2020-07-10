@@ -5,3 +5,5 @@ Successful employees meet deadlines, make sales, and build the brand through pos
 
 Employee attrition is a major cost to an organization and predicting such attritions is the most important requirement of the Human Resources department in many organizations.  
 In this problem, your task is to predict the attrition rate of employees of an organization. 
+
+I was able to achieve a top 10% score.
